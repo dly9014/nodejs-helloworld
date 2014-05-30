@@ -1,0 +1,22 @@
+{
+  "name": "hellocf",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+      "node": "0.10.26"
+  },
+  "maintainers": [
+    {
+      "name": "Dana Young",
+      "email": "young.danal@gmail.com",
+      "twitter": "@youngdanal"
+    }
+  ],
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+
+  }
+
+}
